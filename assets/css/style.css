@@ -1,0 +1,41 @@
+/* train scheduler css */
+
+/* jumbotron background and colors */
+.jumbotron {
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+/* button colors */
+button {
+    float: right;
+    background-color: blue;
+    color: white;
+}
+
+/* format for main section color treatments */
+.card-header{
+    background-color:blue;
+    color: white;
+}
+
+/* table header style */
+th {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+/* format for the footer  */
+footer {
+    text-align: center;
+    color: white;
+    clear: both;
+    background-color: #666666;
+    padding: 15px 0px;
+}
+
+/* footer formatting for h3 elements */
+footer h3 {
+    font-size: 12px;
+}
